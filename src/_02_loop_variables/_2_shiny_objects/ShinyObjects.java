@@ -20,7 +20,7 @@ public class ShinyObjects {
 	public static void main(String[] args) {
 		new ShinyObjects().manyShinyObjects();
 	}
-	
+	canPlaySounds = false;
 	void manyShinyObjects() {
 		
 		// 1. Call the method below to play Mister Zee
